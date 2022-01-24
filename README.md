@@ -1,4 +1,4 @@
-# SPLIT LANDING PAGE
+# Split Landing Page
 
 The side has a mouse hover that will expand.
 
